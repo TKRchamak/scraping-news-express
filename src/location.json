@@ -1,0 +1,4091 @@
+[
+  {
+    "name": "ঢাকা বিভাগ",
+    "externalId": "87",
+    "parentExternalId": null,
+    "slug": "ঢাকা-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চট্টগ্রাম বিভাগ",
+    "externalId": "1698",
+    "parentExternalId": null,
+    "slug": "চট্টগ্রাম-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজশাহী বিভাগ",
+    "externalId": "1692",
+    "parentExternalId": null,
+    "slug": "রাজশাহী-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খুলনা বিভাগ",
+    "externalId": "1690",
+    "parentExternalId": null,
+    "slug": "খুলনা-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরিশাল বিভাগ",
+    "externalId": "1688",
+    "parentExternalId": null,
+    "slug": "বরিশাল-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিলেট বিভাগ",
+    "externalId": "1684",
+    "parentExternalId": null,
+    "slug": "সিলেট-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রংপুর বিভাগ",
+    "externalId": "1682",
+    "parentExternalId": null,
+    "slug": "রংপুর-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ময়মনসিংহ বিভাগ",
+    "externalId": "5821",
+    "parentExternalId": null,
+    "slug": "ময়মনসিংহ-বিভাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঢাকা",
+    "enName": "Dhaka",
+    "externalId": "1148",
+    "parentExternalId": "87",
+    "slug": "ঢাকা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জামালপুর",
+    "enName": "Jamalpur",
+    "externalId": "530",
+    "parentExternalId": "5821",
+    "slug": "জামালপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাটোর",
+    "enName": "Natore",
+    "externalId": "487",
+    "parentExternalId": "1692",
+    "slug": "নাটোর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাগুরা",
+    "enName": "Magura",
+    "externalId": "463",
+    "parentExternalId": "1690",
+    "slug": "মাগুরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লক্ষ্মীপুর",
+    "enName": "Lakshmipur",
+    "externalId": "441",
+    "parentExternalId": "1698",
+    "slug": "লক্ষ্মীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নরসিংদী",
+    "enName": "Narsingdi",
+    "externalId": "386",
+    "parentExternalId": "87",
+    "slug": "নরসিংদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুন্সিগঞ্জ",
+    "enName": "Munshiganj",
+    "externalId": "385",
+    "parentExternalId": "87",
+    "slug": "মুন্সিগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বান্দরবান",
+    "enName": "Bandarban",
+    "externalId": "376",
+    "parentExternalId": "1698",
+    "slug": "বান্দরবান",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মানিকগঞ্জ",
+    "enName": "Manikganj",
+    "externalId": "374",
+    "parentExternalId": "87",
+    "slug": "মানিকগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লালমনিরহাট",
+    "enName": "Lalmonirhat",
+    "externalId": "356",
+    "parentExternalId": "1682",
+    "slug": "লালমনিরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চাঁপাইনবাবগঞ্জ",
+    "enName": "Chapainawabganj",
+    "externalId": "343",
+    "parentExternalId": "1692",
+    "slug": "চাঁপাইনবাবগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঝালকাঠি",
+    "enName": "Jhalakathi",
+    "externalId": "339",
+    "parentExternalId": "1688",
+    "slug": "ঝালকাঠি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফেনী",
+    "enName": "Feni",
+    "externalId": "333",
+    "parentExternalId": "1698",
+    "slug": "ফেনী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "টাঙ্গাইল",
+    "enName": "Tangail",
+    "externalId": "329",
+    "parentExternalId": "87",
+    "slug": "টাঙ্গাইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভোলা",
+    "enName": "Bhola",
+    "externalId": "324",
+    "parentExternalId": "1688",
+    "slug": "ভোলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাইবান্ধা",
+    "enName": "Gaibandha",
+    "externalId": "322",
+    "parentExternalId": "1682",
+    "slug": "গাইবান্ধা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাবনা",
+    "enName": "Pabna",
+    "externalId": "320",
+    "parentExternalId": "1692",
+    "slug": "পাবনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফরিদপুর",
+    "enName": "Faridpur",
+    "externalId": "315",
+    "parentExternalId": "87",
+    "slug": "ফরিদপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোপালগঞ্জ",
+    "enName": "Gopalganj",
+    "externalId": "314",
+    "parentExternalId": "87",
+    "slug": "গোপালগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঝিনাইদহ",
+    "enName": "Jhenaidah",
+    "externalId": "312",
+    "parentExternalId": "1690",
+    "slug": "ঝিনাইদহ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাদারীপুর",
+    "enName": "Madaripur",
+    "externalId": "311",
+    "parentExternalId": "87",
+    "slug": "মাদারীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পিরোজপুর",
+    "enName": "Pirojpur",
+    "externalId": "307",
+    "parentExternalId": "1688",
+    "slug": "পিরোজপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঠাকুরগাঁও",
+    "enName": "Thakurgaon",
+    "externalId": "299",
+    "parentExternalId": "1682",
+    "slug": "ঠাকুরগাঁও",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাগেরহাট",
+    "enName": "Bagerhat",
+    "externalId": "285",
+    "parentExternalId": "1690",
+    "slug": "বাগেরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নীলফামারী",
+    "enName": "Nilphamari",
+    "externalId": "283",
+    "parentExternalId": "1682",
+    "slug": "নীলফামারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দিনাজপুর",
+    "enName": "Dinajpur",
+    "externalId": "282",
+    "parentExternalId": "1682",
+    "slug": "দিনাজপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিরাজগঞ্জ",
+    "enName": "Sirajganj",
+    "externalId": "281",
+    "parentExternalId": "1692",
+    "slug": "সিরাজগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নওগাঁ",
+    "enName": "Naogaon",
+    "externalId": "280",
+    "parentExternalId": "1692",
+    "slug": "নওগাঁ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শেরপুর",
+    "enName": "Sherpur",
+    "externalId": "278",
+    "parentExternalId": "5821",
+    "slug": "শেরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরগুনা",
+    "enName": "Barguna",
+    "externalId": "275",
+    "parentExternalId": "1688",
+    "slug": "বরগুনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাতক্ষীরা",
+    "enName": "Satkhira",
+    "externalId": "274",
+    "parentExternalId": "1690",
+    "slug": "সাতক্ষীরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মেহেরপুর",
+    "enName": "Meherpur",
+    "externalId": "269",
+    "parentExternalId": "1690",
+    "slug": "মেহেরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাঙামাটি",
+    "enName": "Rangamati",
+    "externalId": "262",
+    "parentExternalId": "1698",
+    "slug": "রাঙামাটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কক্সবাজার",
+    "enName": "Coxsbazar",
+    "externalId": "264",
+    "parentExternalId": "1698",
+    "slug": "কক্সবাজার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হবিগঞ্জ",
+    "enName": "Habiganj",
+    "externalId": "260",
+    "parentExternalId": "1684",
+    "slug": "হবিগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নেত্রকোনা",
+    "enName": "Netrokona",
+    "externalId": "253",
+    "parentExternalId": "5821",
+    "slug": "নেত্রকোনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সুনামগঞ্জ",
+    "enName": "Sunamganj",
+    "externalId": "252",
+    "parentExternalId": "1684",
+    "slug": "সুনামগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কিশোরগঞ্জ",
+    "enName": "Kishoreganj",
+    "externalId": "250",
+    "parentExternalId": "87",
+    "slug": "কিশোরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাজীপুর",
+    "enName": "Gazipur",
+    "externalId": "245",
+    "parentExternalId": "87",
+    "slug": "গাজীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মৌলভীবাজার",
+    "enName": "Moulvibazar",
+    "externalId": "244",
+    "parentExternalId": "1684",
+    "slug": "মৌলভীবাজার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চাঁদপুর",
+    "enName": "Chandpur",
+    "externalId": "243",
+    "parentExternalId": "1698",
+    "slug": "চাঁদপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "যশোর",
+    "enName": "Jashore",
+    "externalId": "241",
+    "parentExternalId": "1690",
+    "slug": "যশোর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুমিল্লা",
+    "enName": "Comilla",
+    "externalId": "144",
+    "parentExternalId": "1698",
+    "slug": "কুমিল্লা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরিশাল",
+    "enName": "Barisal",
+    "externalId": "92",
+    "parentExternalId": "1688",
+    "slug": "বরিশাল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খুলনা",
+    "enName": "Khulna",
+    "externalId": "90",
+    "parentExternalId": "1690",
+    "slug": "খুলনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিলেট",
+    "enName": "Sylhet",
+    "externalId": "88",
+    "parentExternalId": "1684",
+    "slug": "সিলেট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চট্টগ্রাম",
+    "enName": "Chattogram",
+    "externalId": "55",
+    "parentExternalId": "1698",
+    "slug": "চট্টগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজশাহী",
+    "enName": "Rajshahi",
+    "externalId": "50",
+    "parentExternalId": "1692",
+    "slug": "রাজশাহী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রংপুর",
+    "enName": "Rangpur",
+    "externalId": "47",
+    "parentExternalId": "1682",
+    "slug": "রংপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নারায়ণগঞ্জ",
+    "enName": "Narayanganj",
+    "externalId": "247",
+    "parentExternalId": "87",
+    "slug": "নারায়ণগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জয়পুরহাট",
+    "enName": "Joypurhat",
+    "externalId": "305",
+    "parentExternalId": "1692",
+    "slug": "জয়পুরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুষ্টিয়া",
+    "enName": "Kushtia",
+    "externalId": "272",
+    "parentExternalId": "1690",
+    "slug": "কুষ্টিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নোয়াখালী",
+    "enName": "Noakhali",
+    "externalId": "266",
+    "parentExternalId": "1698",
+    "slug": "নোয়াখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুড়িগ্রাম",
+    "enName": "Kurigram",
+    "externalId": "301",
+    "parentExternalId": "1682",
+    "slug": "কুড়িগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চুয়াডাঙ্গা",
+    "enName": "Chuadanga",
+    "externalId": "364",
+    "parentExternalId": "1690",
+    "slug": "চুয়াডাঙ্গা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শরীয়তপুর",
+    "enName": "Shariatpur",
+    "externalId": "410",
+    "parentExternalId": "87",
+    "slug": "শরীয়তপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ব্রাহ্মণবাড়িয়া",
+    "enName": "Brahmanbaria",
+    "externalId": "328",
+    "parentExternalId": "1698",
+    "slug": "ব্রাহ্মণবাড়িয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ময়মনসিংহ",
+    "enName": "Mymensingh",
+    "externalId": "256",
+    "parentExternalId": "5821",
+    "slug": "ময়মনসিংহ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খাগড়াছড়ি",
+    "enName": "Khagrachhari",
+    "externalId": "337",
+    "parentExternalId": "1698",
+    "slug": "খাগড়াছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পটুয়াখালী",
+    "enName": "Patuakhali",
+    "externalId": "355",
+    "parentExternalId": "1688",
+    "slug": "পটুয়াখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পঞ্চগড়",
+    "enName": "Panchagarh",
+    "externalId": "483",
+    "parentExternalId": "1682",
+    "slug": "পঞ্চগড়",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বগুড়া",
+    "enName": "Bogura",
+    "externalId": "277",
+    "parentExternalId": "1692",
+    "slug": "বগুড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শেরপুর",
+    "externalId": "66146",
+    "parentExternalId": "277",
+    "slug": "শেরপুর-বগুড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজবাড়ী",
+    "enName": "Rajbari",
+    "externalId": "368",
+    "parentExternalId": "87",
+    "slug": "রাজবাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নড়াইল",
+    "enName": "Narail",
+    "externalId": "248",
+    "parentExternalId": "1690",
+    "slug": "নড়াইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সদর দক্ষিণ",
+    "externalId": "9521",
+    "parentExternalId": "144",
+    "slug": "সদর-দক্ষিণ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাসিরনগর",
+    "externalId": "1814",
+    "parentExternalId": "328",
+    "slug": "নাসিরনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আশুগঞ্জ",
+    "externalId": "1812",
+    "parentExternalId": "328",
+    "slug": "আশুগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শাহরাস্তি",
+    "externalId": "1810",
+    "parentExternalId": "243",
+    "slug": "শাহরাস্তি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হাইমচর",
+    "externalId": "1808",
+    "parentExternalId": "243",
+    "slug": "হাইমচর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফরিদগঞ্জ",
+    "externalId": "1804",
+    "parentExternalId": "243",
+    "slug": "ফরিদগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চাঁদপুর সদর",
+    "externalId": "1800",
+    "parentExternalId": "243",
+    "slug": "চাঁদপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তিতাস",
+    "externalId": "1798",
+    "parentExternalId": "144",
+    "slug": "তিতাস",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লাঙ্গলকোট",
+    "externalId": "1794",
+    "parentExternalId": "144",
+    "slug": "লাঙ্গলকোট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুরাদনগর",
+    "externalId": "1792",
+    "parentExternalId": "144",
+    "slug": "মুরাদনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হোমনা",
+    "externalId": "1790",
+    "parentExternalId": "144",
+    "slug": "হোমনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চান্দিনা",
+    "externalId": "1786",
+    "parentExternalId": "144",
+    "slug": "চান্দিনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পরশুরাম",
+    "externalId": "1782",
+    "parentExternalId": "333",
+    "slug": "পরশুরাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সোনাগাজী",
+    "externalId": "1778",
+    "parentExternalId": "333",
+    "slug": "সোনাগাজী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফেনী সদর",
+    "externalId": "1774",
+    "parentExternalId": "333",
+    "slug": "ফেনী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কমলনগর",
+    "externalId": "1772",
+    "parentExternalId": "441",
+    "slug": "কমলনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রামগঞ্জ",
+    "externalId": "1770",
+    "parentExternalId": "441",
+    "slug": "রামগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লক্ষ্মীপুর সদর",
+    "externalId": "1768",
+    "parentExternalId": "441",
+    "slug": "লক্ষ্মীপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সুবর্ণচর",
+    "externalId": "1762",
+    "parentExternalId": "266",
+    "slug": "সুবর্ণচর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কবিরহাট",
+    "externalId": "1766",
+    "parentExternalId": "266",
+    "slug": "কবিরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সেনবাগ",
+    "externalId": "1760",
+    "parentExternalId": "266",
+    "slug": "সেনবাগ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চাটখিল",
+    "externalId": "1756",
+    "parentExternalId": "266",
+    "slug": "চাটখিল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বেগমগঞ্জ",
+    "externalId": "1754",
+    "parentExternalId": "266",
+    "slug": "বেগমগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লংগদু",
+    "externalId": "1750",
+    "parentExternalId": "262",
+    "slug": "লংগদু",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাঙামাটি সদর",
+    "externalId": "1746",
+    "parentExternalId": "262",
+    "slug": "রাঙামাটি-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরকল",
+    "externalId": "1744",
+    "parentExternalId": "262",
+    "slug": "বরকল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লামা",
+    "externalId": "1728",
+    "parentExternalId": "376",
+    "slug": "লামা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বান্দরবান সদর",
+    "externalId": "1724",
+    "parentExternalId": "376",
+    "slug": "বান্দরবান-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আলিকদম",
+    "externalId": "1720",
+    "parentExternalId": "376",
+    "slug": "আলিকদম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কক্সবাজার সদর",
+    "externalId": "1714",
+    "parentExternalId": "264",
+    "slug": "কক্সবাজার-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সন্দ্বীপ",
+    "externalId": "1710",
+    "parentExternalId": "55",
+    "slug": "সন্দ্বীপ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাউজান",
+    "externalId": "1708",
+    "parentExternalId": "55",
+    "slug": "রাউজান",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চন্দনাইশ",
+    "externalId": "1704",
+    "parentExternalId": "55",
+    "slug": "চন্দনাইশ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাঁশখালী",
+    "externalId": "1700",
+    "parentExternalId": "55",
+    "slug": "বাঁশখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজশাহী সিটি",
+    "externalId": "1680",
+    "parentExternalId": "50",
+    "slug": "রাজশাহী-সিটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তানোর",
+    "externalId": "1676",
+    "parentExternalId": "50",
+    "slug": "তানোর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজশাহী সদর",
+    "externalId": "1674",
+    "parentExternalId": "50",
+    "slug": "রাজশাহী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মোহনপুর",
+    "externalId": "1670",
+    "parentExternalId": "50",
+    "slug": "মোহনপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চারঘাট",
+    "externalId": "1668",
+    "parentExternalId": "50",
+    "slug": "চারঘাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোদাগাড়ী",
+    "externalId": "2233",
+    "parentExternalId": "50",
+    "slug": "গোদাগাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাটোর সদর",
+    "externalId": "1664",
+    "parentExternalId": "487",
+    "slug": "নাটোর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরাইগ্রাম",
+    "externalId": "1662",
+    "parentExternalId": "487",
+    "slug": "বরাইগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চাঁপাইনবাবগঞ্জ সদর",
+    "externalId": "1660",
+    "parentExternalId": "343",
+    "slug": "চাঁপাইনবাবগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাচোল",
+    "externalId": "1658",
+    "parentExternalId": "343",
+    "slug": "নাচোল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাঁচবিবি",
+    "externalId": "1656",
+    "parentExternalId": "305",
+    "slug": "পাঁচবিবি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালাই",
+    "externalId": "1654",
+    "parentExternalId": "305",
+    "slug": "কালাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মিটামইন",
+    "externalId": "1650",
+    "parentExternalId": "250",
+    "slug": "মিটামইন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাজিতপুর",
+    "externalId": "1648",
+    "parentExternalId": "250",
+    "slug": "বাজিতপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "করিমগঞ্জ",
+    "externalId": "1640",
+    "parentExternalId": "250",
+    "slug": "করিমগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ইটনা",
+    "externalId": "1638",
+    "parentExternalId": "250",
+    "slug": "ইটনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "অষ্টগ্রাম",
+    "externalId": "1636",
+    "parentExternalId": "250",
+    "slug": "অষ্টগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কিশোরগঞ্জ সদর",
+    "externalId": "1634",
+    "parentExternalId": "250",
+    "slug": "কিশোরগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সালথা",
+    "externalId": "1632",
+    "parentExternalId": "315",
+    "slug": "সালথা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সদরপুর",
+    "externalId": "1630",
+    "parentExternalId": "315",
+    "slug": "সদরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আলফাডাঙা",
+    "externalId": "1626",
+    "parentExternalId": "315",
+    "slug": "আলফাডাঙা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফরিদপুর সদর",
+    "externalId": "1622",
+    "parentExternalId": "315",
+    "slug": "ফরিদপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজৈর",
+    "externalId": "1620",
+    "parentExternalId": "311",
+    "slug": "রাজৈর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাদারীপুর সদর",
+    "externalId": "1616",
+    "parentExternalId": "311",
+    "slug": "মাদারীপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নেত্রকোনা সদর",
+    "externalId": "1614",
+    "parentExternalId": "253",
+    "slug": "নেত্রকোনা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পত্নীতলা",
+    "externalId": "1612",
+    "parentExternalId": "280",
+    "slug": "পত্নীতলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মদন",
+    "externalId": "1608",
+    "parentExternalId": "253",
+    "slug": "মদন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কলমাকান্দা",
+    "externalId": "1606",
+    "parentExternalId": "253",
+    "slug": "কলমাকান্দা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দুর্গাপুর",
+    "externalId": "1602",
+    "parentExternalId": "253",
+    "slug": "দুর্গাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পোরশা",
+    "externalId": "1600",
+    "parentExternalId": "280",
+    "slug": "পোরশা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বারহাট্টা",
+    "externalId": "1598",
+    "parentExternalId": "253",
+    "slug": "বারহাট্টা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোসাইরহাট",
+    "externalId": "1594",
+    "parentExternalId": "410",
+    "slug": "গোসাইরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভেদরগঞ্জ",
+    "externalId": "1590",
+    "parentExternalId": "410",
+    "slug": "ভেদরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ডামুড্যা",
+    "externalId": "1584",
+    "parentExternalId": "410",
+    "slug": "ডামুড্যা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মেলান্দহ",
+    "externalId": "1580",
+    "parentExternalId": "530",
+    "slug": "মেলান্দহ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ইসলামপুর",
+    "externalId": "1578",
+    "parentExternalId": "530",
+    "slug": "ইসলামপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বকশীগঞ্জ",
+    "externalId": "1574",
+    "parentExternalId": "530",
+    "slug": "বকশীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জামালপুর সদর",
+    "externalId": "1572",
+    "parentExternalId": "530",
+    "slug": "জামালপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মান্দা",
+    "externalId": "1570",
+    "parentExternalId": "280",
+    "slug": "মান্দা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আত্রাই",
+    "externalId": "1562",
+    "parentExternalId": "280",
+    "slug": "আত্রাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুকসুদপুর",
+    "externalId": "1560",
+    "parentExternalId": "314",
+    "slug": "মুকসুদপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোপালগঞ্জ সদর",
+    "externalId": "1558",
+    "parentExternalId": "314",
+    "slug": "গোপালগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রানীনগর",
+    "externalId": "1556",
+    "parentExternalId": "280",
+    "slug": "রানীনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নওগাঁ সদর",
+    "externalId": "1554",
+    "parentExternalId": "280",
+    "slug": "নওগাঁ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শেরপুর সদর",
+    "externalId": "1550",
+    "parentExternalId": "278",
+    "slug": "শেরপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নকলা",
+    "externalId": "1546",
+    "parentExternalId": "278",
+    "slug": "নকলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাহালু",
+    "externalId": "1532",
+    "parentExternalId": "277",
+    "slug": "কাহালু",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নন্দীগ্রাম",
+    "externalId": "1530",
+    "parentExternalId": "277",
+    "slug": "নন্দীগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সোনাতলা",
+    "externalId": "1522",
+    "parentExternalId": "277",
+    "slug": "সোনাতলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুক্তাগাছা",
+    "externalId": "1518",
+    "parentExternalId": "256",
+    "slug": "মুক্তাগাছা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চাটমোহর",
+    "externalId": "1514",
+    "parentExternalId": "320",
+    "slug": "চাটমোহর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাবনা সদর",
+    "externalId": "1512",
+    "parentExternalId": "320",
+    "slug": "পাবনা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফরিদপুর",
+    "externalId": "1510",
+    "parentExternalId": "320",
+    "slug": "ফরিদপুর-পাবনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভাঙ্গুরা",
+    "externalId": "1506",
+    "parentExternalId": "320",
+    "slug": "ভাঙ্গুরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কামারখন্দ",
+    "externalId": "1504",
+    "parentExternalId": "281",
+    "slug": "কামারখন্দ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাজীপুর",
+    "externalId": "1500",
+    "parentExternalId": "281",
+    "slug": "কাজীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিরাজগঞ্জ সদর",
+    "externalId": "1498",
+    "parentExternalId": "281",
+    "slug": "সিরাজগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তেরখাদা",
+    "externalId": "1492",
+    "parentExternalId": "90",
+    "slug": "তেরখাদা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাইকগাছা",
+    "externalId": "1488",
+    "parentExternalId": "90",
+    "slug": "পাইকগাছা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রূপসা",
+    "externalId": "1484",
+    "parentExternalId": "90",
+    "slug": "রূপসা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চিতলমারী",
+    "externalId": "1480",
+    "parentExternalId": "285",
+    "slug": "চিতলমারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাগেরহাট সদর",
+    "externalId": "1478",
+    "parentExternalId": "285",
+    "slug": "বাগেরহাট-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শরণখোলা",
+    "externalId": "1476",
+    "parentExternalId": "285",
+    "slug": "শরণখোলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জীবননগর",
+    "externalId": "1470",
+    "parentExternalId": "364",
+    "slug": "জীবননগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "যশোর সদর",
+    "externalId": "1468",
+    "parentExternalId": "241",
+    "slug": "যশোর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কেশবপুর",
+    "externalId": "1466",
+    "parentExternalId": "241",
+    "slug": "কেশবপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চৌগাছা",
+    "externalId": "1464",
+    "parentExternalId": "241",
+    "slug": "চৌগাছা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মনিরামপুর",
+    "externalId": "1460",
+    "parentExternalId": "241",
+    "slug": "মনিরামপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শার্শা",
+    "externalId": "1458",
+    "parentExternalId": "241",
+    "slug": "শার্শা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কোটচাঁদপুর",
+    "externalId": "1454",
+    "parentExternalId": "312",
+    "slug": "কোটচাঁদপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঝিনাইদহ সদর",
+    "externalId": "1452",
+    "parentExternalId": "312",
+    "slug": "ঝিনাইদহ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মহেশপুর",
+    "externalId": "1450",
+    "parentExternalId": "312",
+    "slug": "মহেশপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুমারখালী",
+    "externalId": "1444",
+    "parentExternalId": "272",
+    "slug": "কুমারখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খোকসা",
+    "externalId": "1440",
+    "parentExternalId": "272",
+    "slug": "খোকসা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মিরপুর",
+    "externalId": "1438",
+    "parentExternalId": "272",
+    "slug": "মিরপুর-কুষ্টিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাগুরা সদর",
+    "externalId": "1436",
+    "parentExternalId": "463",
+    "slug": "মাগুরা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মহম্মদপুর",
+    "externalId": "1434",
+    "parentExternalId": "463",
+    "slug": "মহম্মদপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শালিখা",
+    "externalId": "1432",
+    "parentExternalId": "463",
+    "slug": "শালিখা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাংনী",
+    "externalId": "1430",
+    "parentExternalId": "269",
+    "slug": "গাংনী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মেহেরপুর সদর",
+    "externalId": "1428",
+    "parentExternalId": "269",
+    "slug": "মেহেরপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুজিবনগর",
+    "externalId": "1426",
+    "parentExternalId": "269",
+    "slug": "মুজিবনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আশাশুনি",
+    "externalId": "1418",
+    "parentExternalId": "274",
+    "slug": "আশাশুনি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তালা",
+    "externalId": "1412",
+    "parentExternalId": "274",
+    "slug": "তালা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দেবহাটা",
+    "externalId": "1410",
+    "parentExternalId": "274",
+    "slug": "দেবহাটা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শ্যামনগর",
+    "externalId": "1408",
+    "parentExternalId": "274",
+    "slug": "শ্যামনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাতক্ষীরা সদর",
+    "externalId": "1406",
+    "parentExternalId": "274",
+    "slug": "সাতক্ষীরা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাকেরগঞ্জ",
+    "externalId": "1402",
+    "parentExternalId": "92",
+    "slug": "বাকেরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাবুগঞ্জ",
+    "externalId": "1400",
+    "parentExternalId": "92",
+    "slug": "বাবুগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হিজলা",
+    "externalId": "1396",
+    "parentExternalId": "92",
+    "slug": "হিজলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরিশাল সদর",
+    "externalId": "1394",
+    "parentExternalId": "92",
+    "slug": "বরিশাল-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরগুনা সদর",
+    "externalId": "1388",
+    "parentExternalId": "275",
+    "slug": "বরগুনা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দৌলতখান",
+    "externalId": "1380",
+    "parentExternalId": "324",
+    "slug": "দৌলতখান",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বামনা",
+    "externalId": "1384",
+    "parentExternalId": "275",
+    "slug": "বামনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বোরহানউদ্দিন",
+    "externalId": "1378",
+    "parentExternalId": "324",
+    "slug": "বোরহানউদ্দিন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভোলা সদর",
+    "externalId": "1376",
+    "parentExternalId": "324",
+    "slug": "ভোলা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মনপুরা",
+    "externalId": "1374",
+    "parentExternalId": "324",
+    "slug": "মনপুরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঝালকাঠি সদর",
+    "externalId": "1370",
+    "parentExternalId": "339",
+    "slug": "ঝালকাঠি-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নলছিটি",
+    "externalId": "1368",
+    "parentExternalId": "339",
+    "slug": "নলছিটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দশমিনা",
+    "externalId": "1364",
+    "parentExternalId": "355",
+    "slug": "দশমিনা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মির্জাগঞ্জ",
+    "externalId": "1362",
+    "parentExternalId": "355",
+    "slug": "মির্জাগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দুমকি",
+    "externalId": "1360",
+    "parentExternalId": "355",
+    "slug": "দুমকি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাজিরপুর",
+    "externalId": "1354",
+    "parentExternalId": "307",
+    "slug": "নাজিরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পিরোজপুর সদর",
+    "externalId": "1350",
+    "parentExternalId": "307",
+    "slug": "পিরোজপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বালাগঞ্জ",
+    "externalId": "1342",
+    "parentExternalId": "88",
+    "slug": "বালাগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কোম্পানীগঞ্জ",
+    "externalId": "1340",
+    "parentExternalId": "88",
+    "slug": "কোম্পানীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কানাইঘাট",
+    "externalId": "1336",
+    "parentExternalId": "88",
+    "slug": "কানাইঘাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিলেট সদর",
+    "externalId": "1334",
+    "parentExternalId": "88",
+    "slug": "সিলেট-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জকিগঞ্জ",
+    "externalId": "1332",
+    "parentExternalId": "88",
+    "slug": "জকিগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দক্ষিণ সুরমা",
+    "externalId": "1330",
+    "parentExternalId": "88",
+    "slug": "দক্ষিণ-সুরমা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাহুবল",
+    "externalId": "1324",
+    "parentExternalId": "260",
+    "slug": "বাহুবল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চুনারুঘাট",
+    "externalId": "1322",
+    "parentExternalId": "260",
+    "slug": "চুনারুঘাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হবিগঞ্জ সদর",
+    "externalId": "1320",
+    "parentExternalId": "260",
+    "slug": "হবিগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লাখাই",
+    "externalId": "1318",
+    "parentExternalId": "260",
+    "slug": "লাখাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মৌলভীবাজার সদর",
+    "externalId": "1312",
+    "parentExternalId": "244",
+    "slug": "মৌলভীবাজার-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিশ্বম্ভরপুর",
+    "externalId": "1308",
+    "parentExternalId": "252",
+    "slug": "বিশ্বম্ভরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ছাতক",
+    "externalId": "1306",
+    "parentExternalId": "252",
+    "slug": "ছাতক",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জামালগঞ্জ",
+    "externalId": "1300",
+    "parentExternalId": "252",
+    "slug": "জামালগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শাল্লা",
+    "externalId": "1298",
+    "parentExternalId": "252",
+    "slug": "শাল্লা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সুনামগঞ্জ সদর",
+    "externalId": "1296",
+    "parentExternalId": "252",
+    "slug": "সুনামগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রংপুর সদর",
+    "externalId": "1292",
+    "parentExternalId": "47",
+    "slug": "রংপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বীরগঞ্জ",
+    "externalId": "1284",
+    "parentExternalId": "282",
+    "slug": "বীরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বোচাগঞ্জ",
+    "externalId": "1282",
+    "parentExternalId": "282",
+    "slug": "বোচাগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চিরিরবন্দর",
+    "externalId": "1280",
+    "parentExternalId": "282",
+    "slug": "চিরিরবন্দর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাহারোল",
+    "externalId": "1276",
+    "parentExternalId": "282",
+    "slug": "কাহারোল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খানসামা",
+    "externalId": "1274",
+    "parentExternalId": "282",
+    "slug": "খানসামা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দিনাজপুর সদর",
+    "externalId": "1272",
+    "parentExternalId": "282",
+    "slug": "দিনাজপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিরল",
+    "externalId": "1270",
+    "parentExternalId": "282",
+    "slug": "বিরল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাইবান্ধা সদর",
+    "externalId": "1268",
+    "parentExternalId": "322",
+    "slug": "গাইবান্ধা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাঘাটা",
+    "externalId": "1260",
+    "parentExternalId": "322",
+    "slug": "সাঘাটা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "উলিপুর",
+    "externalId": "1258",
+    "parentExternalId": "301",
+    "slug": "উলিপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চর রাজীবপুর",
+    "externalId": "1254",
+    "parentExternalId": "301",
+    "slug": "চর-রাজীবপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চিলমারী",
+    "externalId": "1252",
+    "parentExternalId": "301",
+    "slug": "চিলমারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজারহাট",
+    "externalId": "1246",
+    "parentExternalId": "301",
+    "slug": "রাজারহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রৌমারী",
+    "externalId": "1244",
+    "parentExternalId": "301",
+    "slug": "রৌমারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মধুপুর",
+    "externalId": "1232",
+    "parentExternalId": "329",
+    "slug": "মধুপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাগরপুর",
+    "externalId": "1230",
+    "parentExternalId": "329",
+    "slug": "নাগরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভূঞাপুর",
+    "externalId": "1228",
+    "parentExternalId": "329",
+    "slug": "ভূঞাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোপালপুর",
+    "externalId": "1226",
+    "parentExternalId": "329",
+    "slug": "গোপালপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাসাইল",
+    "externalId": "1224",
+    "parentExternalId": "329",
+    "slug": "বাসাইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "টাঙ্গাইল সদর",
+    "externalId": "1222",
+    "parentExternalId": "329",
+    "slug": "টাঙ্গাইল-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঘিওর",
+    "externalId": "1220",
+    "parentExternalId": "374",
+    "slug": "ঘিওর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিঙ্গাইর",
+    "externalId": "1216",
+    "parentExternalId": "374",
+    "slug": "সিঙ্গাইর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মানিকগঞ্জ সদর",
+    "externalId": "1214",
+    "parentExternalId": "374",
+    "slug": "মানিকগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুন্সিগঞ্জ সদর",
+    "externalId": "1212",
+    "parentExternalId": "385",
+    "slug": "মুন্সিগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লৌহজং",
+    "externalId": "1210",
+    "parentExternalId": "385",
+    "slug": "লৌহজং",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শ্রীনগর",
+    "externalId": "1206",
+    "parentExternalId": "385",
+    "slug": "শ্রীনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শ্রীপুর",
+    "externalId": "1204",
+    "parentExternalId": "245",
+    "slug": "শ্রীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাজীপুর সদর",
+    "externalId": "1200",
+    "parentExternalId": "245",
+    "slug": "গাজীপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ডোমার",
+    "externalId": "1196",
+    "parentExternalId": "283",
+    "slug": "ডোমার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ডিমলা",
+    "externalId": "1194",
+    "parentExternalId": "283",
+    "slug": "ডিমলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জলঢাকা",
+    "externalId": "1192",
+    "parentExternalId": "283",
+    "slug": "জলঢাকা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রূপগঞ্জ",
+    "externalId": "1188",
+    "parentExternalId": "247",
+    "slug": "রূপগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দেবীগঞ্জ",
+    "externalId": "1186",
+    "parentExternalId": "483",
+    "slug": "দেবীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বন্দর",
+    "externalId": "1180",
+    "parentExternalId": "247",
+    "slug": "বন্দর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বোদা",
+    "externalId": "1174",
+    "parentExternalId": "483",
+    "slug": "বোদা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঠাকুরগাঁও সদর",
+    "externalId": "1172",
+    "parentExternalId": "299",
+    "slug": "ঠাকুরগাঁও-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রানীশংকৈল",
+    "externalId": "1170",
+    "parentExternalId": "299",
+    "slug": "রানীশংকৈল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হরিপুর",
+    "externalId": "1168",
+    "parentExternalId": "299",
+    "slug": "হরিপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লালমনিরহাট সদর",
+    "externalId": "1166",
+    "parentExternalId": "356",
+    "slug": "লালমনিরহাট-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নরসিংদী সদর",
+    "externalId": "1160",
+    "parentExternalId": "386",
+    "slug": "নরসিংদী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শিবপুর",
+    "externalId": "1156",
+    "parentExternalId": "386",
+    "slug": "শিবপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মনোহরদী",
+    "externalId": "1154",
+    "parentExternalId": "386",
+    "slug": "মনোহরদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বেলাবো",
+    "externalId": "1152",
+    "parentExternalId": "386",
+    "slug": "বেলাবো",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধামরাই",
+    "externalId": "1150",
+    "parentExternalId": "1148",
+    "slug": "ধামরাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাগেশ্বরী",
+    "externalId": "1144",
+    "parentExternalId": "301",
+    "slug": "নাগেশ্বরী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আলমডাঙ্গা",
+    "externalId": "1130",
+    "parentExternalId": "364",
+    "slug": "আলমডাঙ্গা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঝিকরগাছা",
+    "externalId": "1126",
+    "parentExternalId": "241",
+    "slug": "ঝিকরগাছা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বেলকুচি",
+    "externalId": "1112",
+    "parentExternalId": "281",
+    "slug": "বেলকুচি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গফরগাঁও",
+    "externalId": "1110",
+    "parentExternalId": "256",
+    "slug": "গফরগাঁও",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সুন্দরগঞ্জ",
+    "externalId": "1100",
+    "parentExternalId": "322",
+    "slug": "সুন্দরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জৈন্তাপুর",
+    "externalId": "1062",
+    "parentExternalId": "88",
+    "slug": "জৈন্তাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজাপুর",
+    "externalId": "1040",
+    "parentExternalId": "339",
+    "slug": "রাজাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাজীপুর সিটি",
+    "externalId": "1028",
+    "parentExternalId": "245",
+    "slug": "গাজীপুর-সিটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ক্ষেতলাল",
+    "externalId": "1008",
+    "parentExternalId": "305",
+    "slug": "ক্ষেতলাল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাপাহার",
+    "externalId": "962",
+    "parentExternalId": "280",
+    "slug": "সাপাহার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পবা",
+    "externalId": "960",
+    "parentExternalId": "50",
+    "slug": "পবা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রুমা",
+    "externalId": "946",
+    "parentExternalId": "376",
+    "slug": "রুমা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হরিরামপুর",
+    "externalId": "940",
+    "parentExternalId": "374",
+    "slug": "হরিরামপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দাকোপ",
+    "externalId": "906",
+    "parentExternalId": "90",
+    "slug": "দাকোপ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোমস্তাপুর",
+    "externalId": "874",
+    "parentExternalId": "343",
+    "slug": "গোমস্তাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মহাদেবপুর",
+    "externalId": "868",
+    "parentExternalId": "280",
+    "slug": "মহাদেবপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভাঙ্গা",
+    "externalId": "866",
+    "parentExternalId": "315",
+    "slug": "ভাঙ্গা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলগাজী",
+    "externalId": "842",
+    "parentExternalId": "333",
+    "slug": "ফুলগাজী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সুজানগর",
+    "externalId": "802",
+    "parentExternalId": "320",
+    "slug": "সুজানগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাংশা",
+    "externalId": "801",
+    "parentExternalId": "368",
+    "slug": "পাংশা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বালিয়াকান্দি",
+    "externalId": "800",
+    "parentExternalId": "368",
+    "slug": "বালিয়াকান্দি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "থানচি",
+    "externalId": "788",
+    "parentExternalId": "376",
+    "slug": "থানচি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পূর্বধলা",
+    "externalId": "780",
+    "parentExternalId": "253",
+    "slug": "পূর্বধলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফেঞ্চুগঞ্জ",
+    "externalId": "779",
+    "parentExternalId": "88",
+    "slug": "ফেঞ্চুগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পলাশ",
+    "externalId": "767",
+    "parentExternalId": "386",
+    "slug": "পলাশ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দেবীদ্বার",
+    "externalId": "765",
+    "parentExternalId": "144",
+    "slug": "দেবীদ্বার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মিঠাপুকুর",
+    "externalId": "757",
+    "parentExternalId": "47",
+    "slug": "মিঠাপুকুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিশ্বনাথ",
+    "externalId": "712",
+    "parentExternalId": "88",
+    "slug": "বিশ্বনাথ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শিবচর",
+    "externalId": "711",
+    "parentExternalId": "311",
+    "slug": "শিবচর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লালমোহন",
+    "externalId": "705",
+    "parentExternalId": "324",
+    "slug": "লালমোহন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হোসেনপুর",
+    "externalId": "690",
+    "parentExternalId": "250",
+    "slug": "হোসেনপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালিহাতী",
+    "externalId": "687",
+    "parentExternalId": "329",
+    "slug": "কালিহাতী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "উজিরপুর",
+    "externalId": "676",
+    "parentExternalId": "92",
+    "slug": "উজিরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দৌলতপুর",
+    "externalId": "675",
+    "parentExternalId": "272",
+    "slug": "দৌলতপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হাজীগঞ্জ",
+    "externalId": "674",
+    "parentExternalId": "243",
+    "slug": "হাজীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চৌদ্দগ্রাম",
+    "externalId": "671",
+    "parentExternalId": "144",
+    "slug": "চৌদ্দগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাটিরাঙ্গা",
+    "externalId": "654",
+    "parentExternalId": "337",
+    "slug": "মাটিরাঙ্গা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভোলাহাট",
+    "externalId": "651",
+    "parentExternalId": "343",
+    "slug": "ভোলাহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গৌরীপুর",
+    "externalId": "637",
+    "parentExternalId": "256",
+    "slug": "গৌরীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রামপাল",
+    "externalId": "634",
+    "parentExternalId": "285",
+    "slug": "রামপাল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মোংলা",
+    "externalId": "628",
+    "parentExternalId": "285",
+    "slug": "মোংলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লালপুর",
+    "externalId": "625",
+    "parentExternalId": "487",
+    "slug": "লালপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফকিরহাট",
+    "externalId": "624",
+    "parentExternalId": "285",
+    "slug": "ফকিরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভালুকা",
+    "externalId": "610",
+    "parentExternalId": "256",
+    "slug": "ভালুকা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নগরকান্দা",
+    "externalId": "583",
+    "parentExternalId": "315",
+    "slug": "নগরকান্দা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চরফ্যাশন",
+    "externalId": "580",
+    "parentExternalId": "324",
+    "slug": "চরফ্যাশন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাঘা",
+    "externalId": "558",
+    "parentExternalId": "50",
+    "slug": "বাঘা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রামগতি",
+    "externalId": "555",
+    "parentExternalId": "441",
+    "slug": "রামগতি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাদারগঞ্জ",
+    "externalId": "553",
+    "parentExternalId": "530",
+    "slug": "মাদারগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রামু",
+    "externalId": "537",
+    "parentExternalId": "264",
+    "slug": "রামু",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাউফল",
+    "externalId": "535",
+    "parentExternalId": "355",
+    "slug": "বাউফল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাপ্তাই",
+    "externalId": "532",
+    "parentExternalId": "262",
+    "slug": "কাপ্তাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মোল্লাহাট",
+    "externalId": "517",
+    "parentExternalId": "285",
+    "slug": "মোল্লাহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মোহনগঞ্জ",
+    "externalId": "509",
+    "parentExternalId": "253",
+    "slug": "মোহনগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোলাপগঞ্জ",
+    "externalId": "497",
+    "parentExternalId": "88",
+    "slug": "গোলাপগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গুরুদাসপুর",
+    "externalId": "486",
+    "parentExternalId": "487",
+    "slug": "গুরুদাসপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তাহিরপুর",
+    "externalId": "484",
+    "parentExternalId": "252",
+    "slug": "তাহিরপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নবীগঞ্জ",
+    "externalId": "482",
+    "parentExternalId": "260",
+    "slug": "নবীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলপুর",
+    "externalId": "479",
+    "parentExternalId": "256",
+    "slug": "ফুলপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গলাচিপা",
+    "externalId": "465",
+    "parentExternalId": "355",
+    "slug": "গলাচিপা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পীরগঞ্জ",
+    "externalId": "462",
+    "parentExternalId": "299",
+    "slug": "পীরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাটগ্রাম",
+    "externalId": "461",
+    "parentExternalId": "356",
+    "slug": "পাটগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শ্রীমঙ্গল",
+    "externalId": "460",
+    "parentExternalId": "244",
+    "slug": "শ্রীমঙ্গল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কমলগঞ্জ",
+    "externalId": "443",
+    "parentExternalId": "244",
+    "slug": "কমলগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কসবা",
+    "externalId": "442",
+    "parentExternalId": "328",
+    "slug": "কসবা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নবাবগঞ্জ",
+    "externalId": "438",
+    "parentExternalId": "282",
+    "slug": "নবাবগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দোহার",
+    "externalId": "437",
+    "parentExternalId": "1148",
+    "slug": "দোহার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লাকসাম",
+    "externalId": "425",
+    "parentExternalId": "144",
+    "slug": "লাকসাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঘাটাইল",
+    "externalId": "414",
+    "parentExternalId": "329",
+    "slug": "ঘাটাইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বদরগঞ্জ",
+    "externalId": "413",
+    "parentExternalId": "47",
+    "slug": "বদরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "টেকনাফ",
+    "externalId": "409",
+    "parentExternalId": "264",
+    "slug": "টেকনাফ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মনোহরগঞ্জ",
+    "externalId": "389",
+    "parentExternalId": "144",
+    "slug": "মনোহরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দাউদকান্দি",
+    "externalId": "388",
+    "parentExternalId": "144",
+    "slug": "দাউদকান্দি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নবীনগর",
+    "externalId": "382",
+    "parentExternalId": "328",
+    "slug": "নবীনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মাধবপুর",
+    "externalId": "381",
+    "parentExternalId": "260",
+    "slug": "মাধবপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নিকলী",
+    "externalId": "380",
+    "parentExternalId": "250",
+    "slug": "নিকলী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সরাইল",
+    "externalId": "379",
+    "parentExternalId": "328",
+    "slug": "সরাইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কেরানীগঞ্জ",
+    "externalId": "378",
+    "parentExternalId": "1148",
+    "slug": "কেরানীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শিবগঞ্জ",
+    "externalId": "373",
+    "parentExternalId": "277",
+    "slug": "শিবগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মধুখালী",
+    "externalId": "369",
+    "parentExternalId": "315",
+    "slug": "মধুখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পার্বতীপুর",
+    "externalId": "361",
+    "parentExternalId": "282",
+    "slug": "পার্বতীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলতলা",
+    "externalId": "360",
+    "parentExternalId": "90",
+    "slug": "ফুলতলা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শাহজাদপুর",
+    "externalId": "358",
+    "parentExternalId": "281",
+    "slug": "শাহজাদপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাঞ্ছারামপুর",
+    "externalId": "357",
+    "parentExternalId": "328",
+    "slug": "বাঞ্ছারামপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঈশ্বরদী",
+    "externalId": "354",
+    "parentExternalId": "320",
+    "slug": "ঈশ্বরদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধুনট",
+    "externalId": "353",
+    "parentExternalId": "277",
+    "slug": "ধুনট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দীঘিনালা",
+    "externalId": "338",
+    "parentExternalId": "337",
+    "slug": "দীঘিনালা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সীতাকুণ্ড",
+    "externalId": "336",
+    "parentExternalId": "55",
+    "slug": "সীতাকুণ্ড",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাভার",
+    "externalId": "332",
+    "parentExternalId": "1148",
+    "slug": "সাভার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তারাগঞ্জ",
+    "externalId": "331",
+    "parentExternalId": "47",
+    "slug": "তারাগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মির্জাপুর",
+    "externalId": "330",
+    "parentExternalId": "329",
+    "slug": "মির্জাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দিরাই",
+    "externalId": "327",
+    "parentExternalId": "252",
+    "slug": "দিরাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হাটহাজারী",
+    "externalId": "326",
+    "parentExternalId": "55",
+    "slug": "হাটহাজারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোবিন্দগঞ্জ",
+    "externalId": "325",
+    "parentExternalId": "322",
+    "slug": "গোবিন্দগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাগমারা",
+    "externalId": "321",
+    "parentExternalId": "50",
+    "slug": "বাগমারা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মতলব দক্ষিণ",
+    "externalId": "319",
+    "parentExternalId": "243",
+    "slug": "মতলব-দক্ষিণ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিরামপুর",
+    "externalId": "317",
+    "parentExternalId": "282",
+    "slug": "বিরামপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হাকিমপুর",
+    "externalId": "316",
+    "parentExternalId": "282",
+    "slug": "হাকিমপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গাবতলী",
+    "externalId": "309",
+    "parentExternalId": "277",
+    "slug": "গাবতলী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আমতলী",
+    "externalId": "308",
+    "parentExternalId": "275",
+    "slug": "আমতলী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আক্কেলপুর",
+    "externalId": "304",
+    "parentExternalId": "305",
+    "slug": "আক্কেলপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পীরগাছা",
+    "externalId": "303",
+    "parentExternalId": "47",
+    "slug": "পীরগাছা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মোরেলগঞ্জ",
+    "externalId": "284",
+    "parentExternalId": "285",
+    "slug": "মোরেলগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাথরঘাটা",
+    "externalId": "276",
+    "parentExternalId": "275",
+    "slug": "পাথরঘাটা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গৌরনদী",
+    "externalId": "271",
+    "parentExternalId": "92",
+    "slug": "গৌরনদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভৈরব",
+    "externalId": "268",
+    "parentExternalId": "250",
+    "slug": "ভৈরব",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ত্রিশাল",
+    "externalId": "267",
+    "parentExternalId": "256",
+    "slug": "ত্রিশাল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মহেশখালী",
+    "externalId": "265",
+    "parentExternalId": "264",
+    "slug": "মহেশখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মিরসরাই",
+    "externalId": "261",
+    "parentExternalId": "55",
+    "slug": "মিরসরাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নান্দাইল",
+    "externalId": "257",
+    "parentExternalId": "256",
+    "slug": "নান্দাইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঈশ্বরগঞ্জ",
+    "externalId": "255",
+    "parentExternalId": "256",
+    "slug": "ঈশ্বরগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জগন্নাথপুর",
+    "externalId": "251",
+    "parentExternalId": "252",
+    "slug": "জগন্নাথপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সোনারগাঁ",
+    "externalId": "246",
+    "parentExternalId": "247",
+    "slug": "সোনারগাঁ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বদলগাছী",
+    "externalId": "1588",
+    "parentExternalId": "280",
+    "slug": "বদলগাছী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জাজিরা",
+    "externalId": "1592",
+    "parentExternalId": "410",
+    "slug": "জাজিরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোয়াইনঘাট",
+    "externalId": "1338",
+    "parentExternalId": "88",
+    "slug": "গোয়াইনঘাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সখিপুর",
+    "externalId": "1234",
+    "parentExternalId": "329",
+    "slug": "সখিপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালকিনী",
+    "externalId": "1618",
+    "parentExternalId": "311",
+    "slug": "কালকিনী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ডাসার",
+    "externalId": "84231",
+    "parentExternalId": "311",
+    "slug": "ডাসার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চর ভদ্রাসন",
+    "externalId": "1628",
+    "parentExternalId": "315",
+    "slug": "চর-ভদ্রাসন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বরুড়া",
+    "externalId": "2015",
+    "parentExternalId": "144",
+    "slug": "বরুড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মেঘনা",
+    "externalId": "1796",
+    "parentExternalId": "144",
+    "slug": "মেঘনা-নদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আদমদিঘী",
+    "externalId": "1544",
+    "parentExternalId": "277",
+    "slug": "আদমদিঘী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাজাহানপুর",
+    "externalId": "1520",
+    "parentExternalId": "277",
+    "slug": "সাজাহানপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চৌহালি",
+    "externalId": "1502",
+    "parentExternalId": "281",
+    "slug": "চৌহালি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খুলনা সিটি",
+    "externalId": "1496",
+    "parentExternalId": "90",
+    "slug": "খুলনা-সিটি-করপোরেশন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হরিণাকুণ্ড",
+    "externalId": "1446",
+    "parentExternalId": "312",
+    "slug": "হরিণাকুণ্ড",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শৈলকূপা",
+    "externalId": "1448",
+    "parentExternalId": "312",
+    "slug": "শৈলকূপা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাঙ্গাবালি",
+    "externalId": "1358",
+    "parentExternalId": "355",
+    "slug": "রাঙ্গাবালি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দাগনভূঁইয়া",
+    "externalId": "1776",
+    "parentExternalId": "333",
+    "slug": "দাগনভূঁইয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সোনাইমুড়ি",
+    "externalId": "1764",
+    "parentExternalId": "266",
+    "slug": "সোনাইমুড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আজমিরিগঞ্জ",
+    "externalId": "1328",
+    "parentExternalId": "260",
+    "slug": "আজমিরিগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজানগর",
+    "externalId": "1314",
+    "parentExternalId": "244",
+    "slug": "রাজানগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জুড়ি",
+    "externalId": "1310",
+    "parentExternalId": "244",
+    "slug": "জুড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দোয়ারাবাজার",
+    "externalId": "1302",
+    "parentExternalId": "252",
+    "slug": "দোয়ারাবাজার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধর্মপাশা",
+    "externalId": "1304",
+    "parentExternalId": "252",
+    "slug": "ধর্মপাশা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মধ্যনগর",
+    "externalId": "84229",
+    "parentExternalId": "252",
+    "slug": "মধ্যনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শান্তিগঞ্জ",
+    "externalId": "84232",
+    "parentExternalId": "252",
+    "slug": "শান্তিগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভাণ্ডারিয়া",
+    "externalId": "1348",
+    "parentExternalId": "307",
+    "slug": "ভাণ্ডারিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শ্রীপুর",
+    "externalId": "9532",
+    "parentExternalId": "463",
+    "slug": "শ্রীপুর-মাগুরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হাতীবান্ধা",
+    "externalId": "1162",
+    "parentExternalId": "356",
+    "slug": "হাতীবান্ধা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তজুমদ্দিন",
+    "externalId": "1382",
+    "parentExternalId": "324",
+    "slug": "তজুমদ্দিন",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শিবগঞ্জ চাঁপাইনবাবগঞ্জ",
+    "externalId": "9534",
+    "parentExternalId": "343",
+    "slug": "শিবগঞ্জ-চাঁপাইনবাবগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দুর্গাপুর রাজশাহী",
+    "externalId": "9537",
+    "parentExternalId": "50",
+    "slug": "দুর্গাপুর-রাজশাহী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দৌলতপুর মানিকগঞ্জ",
+    "externalId": "9536",
+    "parentExternalId": "374",
+    "slug": "দৌলতপুর-মানিকগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নবাবগঞ্জ ঢাকা",
+    "externalId": "9535",
+    "parentExternalId": "1148",
+    "slug": "নবাবগঞ্জ-ঢাকা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাদুল্লাপুর",
+    "externalId": "1262",
+    "parentExternalId": "322",
+    "slug": "সাদুল্লাপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভুরুঙ্গামারী",
+    "externalId": "1248",
+    "parentExternalId": "301",
+    "slug": "ভুরুঙ্গামারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঝিনাইগাতী",
+    "externalId": "2506",
+    "parentExternalId": "278",
+    "slug": "ঝিনাইগাতী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শ্রীবরদী",
+    "externalId": "1552",
+    "parentExternalId": "278",
+    "slug": "শ্রীবরদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গুইমারা",
+    "externalId": "9416",
+    "parentExternalId": "337",
+    "slug": "গুইমারা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ইন্দুরকানি",
+    "externalId": "9531",
+    "parentExternalId": "307",
+    "slug": "ইন্দুরকানি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তালতলী",
+    "externalId": "9530",
+    "parentExternalId": "275",
+    "slug": "তালতলী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শায়েস্তাগঞ্জ",
+    "externalId": "9529",
+    "parentExternalId": "260",
+    "slug": "শায়েস্তাগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ওসমানীনগর",
+    "externalId": "9528",
+    "parentExternalId": "88",
+    "slug": "ওসমানীনগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আদিতমারী",
+    "externalId": "9527",
+    "parentExternalId": "356",
+    "slug": "আদিতমারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালুখালী",
+    "externalId": "9526",
+    "parentExternalId": "368",
+    "slug": "কালুখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তারাকান্দা",
+    "externalId": "9525",
+    "parentExternalId": "256",
+    "slug": "তারাকান্দা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আদর্শ সদর",
+    "externalId": "9522",
+    "parentExternalId": "144",
+    "slug": "আদর্শ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লালমাই",
+    "externalId": "9523",
+    "parentExternalId": "144",
+    "slug": "লালমাই",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নীলফামারী সদর",
+    "externalId": "1198",
+    "parentExternalId": "283",
+    "slug": "নীলফামারী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লোহাগড়া",
+    "externalId": "318",
+    "parentExternalId": "248",
+    "slug": "লোহাগড়া-নড়াইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালীগঞ্জ",
+    "externalId": "370",
+    "parentExternalId": "245",
+    "slug": "কালীগঞ্জ-গাজীপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালীগঞ্জ",
+    "externalId": "1164",
+    "parentExternalId": "356",
+    "slug": "কালীগঞ্জ-লালমনিরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজধানী ঢাকা",
+    "externalId": "296",
+    "parentExternalId": "1148",
+    "slug": "রাজধানী-জাতীয়",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাউখালী",
+    "externalId": "1738",
+    "parentExternalId": "262",
+    "slug": "কাউখালী-রাঙ্গামাটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কোম্পানীগঞ্জ",
+    "externalId": "1758",
+    "parentExternalId": "266",
+    "slug": "কোম্পানীগঞ্জ-নোয়াখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালীগঞ্জ",
+    "externalId": "1414",
+    "parentExternalId": "274",
+    "slug": "কালীগঞ্জ-সাতক্ষীরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পীরগঞ্জ",
+    "externalId": "1286",
+    "parentExternalId": "47",
+    "slug": "পীরগঞ্জ-রংপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রংপুর সিটি",
+    "externalId": "1294",
+    "parentExternalId": "47",
+    "slug": "রংপুর-সিটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালীগঞ্জ",
+    "externalId": "1456",
+    "parentExternalId": "312",
+    "slug": "কালীগঞ্জ-ঝিনাইদহ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বানারীপাড়",
+    "externalId": "1398",
+    "parentExternalId": "92",
+    "slug": "বানারীপাড়",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দিঘলিয়া",
+    "externalId": "1490",
+    "parentExternalId": "90",
+    "slug": "দিঘলিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কর্ণফুলী",
+    "externalId": "1712",
+    "parentExternalId": "55",
+    "slug": "কর্ণফুলী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কিশোরগঞ্জ",
+    "externalId": "1190",
+    "parentExternalId": "283",
+    "slug": "কিশোরগঞ্জ-নীলফামারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিরাজদিখান",
+    "externalId": "1208",
+    "parentExternalId": "385",
+    "slug": "সিরাজদিখান",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলবাড়ী",
+    "externalId": "1250",
+    "parentExternalId": "301",
+    "slug": "ফুলবাড়ী-কুড়িগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলবাড়ী",
+    "externalId": "27800",
+    "parentExternalId": "301",
+    "slug": "ফুলবাড়ী-কুড়িগ্রাম",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নেছারাবাদ স্বরূপকাঠি",
+    "externalId": "1352",
+    "parentExternalId": "307",
+    "slug": "নেছারাবাদ-স্বরূপকাঠি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লোহাগাড়া",
+    "externalId": "9222",
+    "parentExternalId": "55",
+    "slug": "লোহাগাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিলেট সিটি",
+    "externalId": "1344",
+    "parentExternalId": "88",
+    "slug": "সিলেট-সিটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বেতাগী",
+    "externalId": "1386",
+    "parentExternalId": "275",
+    "slug": "বেতাগী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মেহেন্দীগঞ্জ",
+    "externalId": "1392",
+    "parentExternalId": "92",
+    "slug": "মেহেন্দীগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজস্থলী",
+    "externalId": "1748",
+    "parentExternalId": "262",
+    "slug": "রাজস্থলী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মতলব উত্তর",
+    "externalId": "9524",
+    "parentExternalId": "243",
+    "slug": "মতলব-উত্তর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মুলাদী",
+    "externalId": "1390",
+    "parentExternalId": "92",
+    "slug": "মুলাদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নালিতাবাড়ি",
+    "externalId": "1548",
+    "parentExternalId": "278",
+    "slug": "নালিতাবাড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধামইরহাট",
+    "externalId": "1610",
+    "parentExternalId": "280",
+    "slug": "ধামইরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাউখালী",
+    "externalId": "1356",
+    "parentExternalId": "307",
+    "slug": "কাউখালী-পিরোজপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কচুয়া",
+    "externalId": "1482",
+    "parentExternalId": "285",
+    "slug": "কচুয়া-বাগেরহাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাঘাইছড়ি",
+    "externalId": "377",
+    "parentExternalId": "262",
+    "slug": "বাঘাইছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাঙ্গুনিয়া",
+    "externalId": "383",
+    "parentExternalId": "55",
+    "slug": "রাঙ্গুনিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফটিকছড়ি",
+    "externalId": "342",
+    "parentExternalId": "55",
+    "slug": "ফটিকছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ডুমুরিয়া",
+    "externalId": "352",
+    "parentExternalId": "90",
+    "slug": "ডুমুরিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সরিষাবাড়ী",
+    "externalId": "529",
+    "parentExternalId": "530",
+    "slug": "সরিষাবাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পটিয়া",
+    "externalId": "531",
+    "parentExternalId": "55",
+    "slug": "পটিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ছাগলনাইয়া",
+    "externalId": "1780",
+    "parentExternalId": "333",
+    "slug": "ছাগলনাইয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ব্রাহ্মণবাড়িয়া সদর",
+    "externalId": "1816",
+    "parentExternalId": "328",
+    "slug": "ব্রাহ্মণবাড়িয়া-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হালুয়াঘাট",
+    "externalId": "1524",
+    "parentExternalId": "256",
+    "slug": "হালুয়াঘাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুষ্টিয়া সদর",
+    "externalId": "1442",
+    "parentExternalId": "272",
+    "slug": "কুষ্টিয়া-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলবাড়িয়া",
+    "externalId": "1528",
+    "parentExternalId": "256",
+    "slug": "ফুলবাড়িয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পেকুয়া",
+    "externalId": "1718",
+    "parentExternalId": "264",
+    "slug": "পেকুয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খাগড়াছড়ি সদর",
+    "externalId": "1730",
+    "parentExternalId": "337",
+    "slug": "খাগড়াছড়ি-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নাইক্ষ্যংছড়ি",
+    "externalId": "1722",
+    "parentExternalId": "376",
+    "slug": "নাইক্ষ্যংছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুতুবদিয়া",
+    "externalId": "1716",
+    "parentExternalId": "264",
+    "slug": "কুতুবদিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নোয়াখালী সদর",
+    "externalId": "1752",
+    "parentExternalId": "266",
+    "slug": "নোয়াখালী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পানছড়ি",
+    "externalId": "1732",
+    "parentExternalId": "337",
+    "slug": "পানছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "লক্ষ্মীছড়ি",
+    "externalId": "1736",
+    "parentExternalId": "337",
+    "slug": "লক্ষ্মীছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জুরাছড়ি",
+    "externalId": "1740",
+    "parentExternalId": "262",
+    "slug": "জুরাছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নানিয়ারচর",
+    "externalId": "1742",
+    "parentExternalId": "262",
+    "slug": "নানিয়ারচর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মহালছড়ি",
+    "externalId": "1734",
+    "parentExternalId": "337",
+    "slug": "মহালছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তেঁতুলিয়া",
+    "externalId": "1182",
+    "parentExternalId": "483",
+    "slug": "তেঁতুলিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "উল্লাপাড়া",
+    "externalId": "1124",
+    "parentExternalId": "281",
+    "slug": "উল্লাপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিলাইছড়ি",
+    "externalId": "942",
+    "parentExternalId": "262",
+    "slug": "বিলাইছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাগাতিপাড়া",
+    "externalId": "956",
+    "parentExternalId": "487",
+    "slug": "বাগাতিপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নারায়ণগঞ্জ সদর",
+    "externalId": "1178",
+    "parentExternalId": "247",
+    "slug": "নারায়ণগঞ্জ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আগৈলঝারা",
+    "externalId": "1404",
+    "parentExternalId": "92",
+    "slug": "আগৈলঝারা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রোয়াংছড়ি",
+    "externalId": "1726",
+    "parentExternalId": "376",
+    "slug": "রোয়াংছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বুড়িচং",
+    "externalId": "1788",
+    "parentExternalId": "144",
+    "slug": "বুড়িচং",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধুপচাঁচিয়া",
+    "externalId": "1536",
+    "parentExternalId": "277",
+    "slug": "ধুপচাঁচিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কচুয়া",
+    "externalId": "1802",
+    "parentExternalId": "243",
+    "slug": "কচুয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "জয়পুরহাট সদর",
+    "externalId": "1652",
+    "parentExternalId": "305",
+    "slug": "জয়পুরহাট-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বোয়ালমারী",
+    "externalId": "1624",
+    "parentExternalId": "315",
+    "slug": "বোয়ালমারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিজয়নগর",
+    "externalId": "1818",
+    "parentExternalId": "328",
+    "slug": "বিজয়নগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নড়িয়া",
+    "externalId": "1586",
+    "parentExternalId": "410",
+    "slug": "নড়িয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সারিয়াকান্দি",
+    "externalId": "1526",
+    "parentExternalId": "277",
+    "slug": "সারিয়াকান্দি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালিয়া",
+    "externalId": "1422",
+    "parentExternalId": "248",
+    "slug": "কালিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বটিয়াঘাটা",
+    "externalId": "1486",
+    "parentExternalId": "90",
+    "slug": "বটিয়াঘাটা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আটঘরিয়া",
+    "externalId": "1516",
+    "parentExternalId": "320",
+    "slug": "আটঘরিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দামুড়হুদা",
+    "externalId": "1472",
+    "parentExternalId": "364",
+    "slug": "দামুড়হুদা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বাঘারপাড়া",
+    "externalId": "1462",
+    "parentExternalId": "241",
+    "slug": "বাঘারপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পঞ্চগড় সদর",
+    "externalId": "1176",
+    "parentExternalId": "483",
+    "slug": "পঞ্চগড়-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কালিয়াকৈর",
+    "externalId": "1202",
+    "parentExternalId": "245",
+    "slug": "কালিয়াকৈর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কয়রা",
+    "externalId": "1494",
+    "parentExternalId": "90",
+    "slug": "কয়রা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ময়মনসিংহ সদর",
+    "externalId": "1508",
+    "parentExternalId": "256",
+    "slug": "ময়মনসিংহ-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ব্রাহ্মণপাড়া",
+    "externalId": "601",
+    "parentExternalId": "144",
+    "slug": "ব্রাহ্মণপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তাড়াশ",
+    "externalId": "608",
+    "parentExternalId": "281",
+    "slug": "তাড়াশ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রায়পুর",
+    "externalId": "440",
+    "parentExternalId": "441",
+    "slug": "রায়পুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সিংড়া",
+    "externalId": "498",
+    "parentExternalId": "487",
+    "slug": "সিংড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলবাড়ী",
+    "externalId": "494",
+    "parentExternalId": "282",
+    "slug": "ফুলবাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রামগড়",
+    "externalId": "816",
+    "parentExternalId": "337",
+    "slug": "রামগড়",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঘোড়াঘাট",
+    "externalId": "1278",
+    "parentExternalId": "282",
+    "slug": "ঘোড়াঘাট",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আড়াইহাজার",
+    "externalId": "1184",
+    "parentExternalId": "247",
+    "slug": "আড়াইহাজার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আটোয়ারী",
+    "externalId": "890",
+    "parentExternalId": "483",
+    "slug": "আটোয়ারী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাঁথিয়া",
+    "externalId": "803",
+    "parentExternalId": "320",
+    "slug": "সাঁথিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "উখিয়া",
+    "externalId": "1038",
+    "parentExternalId": "264",
+    "slug": "উখিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "টঙ্গিবাড়ী",
+    "externalId": "978",
+    "parentExternalId": "385",
+    "slug": "টঙ্গিবাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাটুরিয়া",
+    "externalId": "870",
+    "parentExternalId": "374",
+    "slug": "সাটুরিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুলাউড়া",
+    "externalId": "872",
+    "parentExternalId": "244",
+    "slug": "কুলাউড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বালিয়াডাঙ্গী",
+    "externalId": "300",
+    "parentExternalId": "299",
+    "slug": "বালিয়াডাঙ্গী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মঠবাড়িয়া",
+    "externalId": "306",
+    "parentExternalId": "307",
+    "slug": "মঠবাড়িয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কেন্দুয়া",
+    "externalId": "254",
+    "parentExternalId": "253",
+    "slug": "কেন্দুয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গজারিয়া",
+    "externalId": "384",
+    "parentExternalId": "385",
+    "slug": "গজারিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সাতকানিয়া",
+    "externalId": "439",
+    "parentExternalId": "55",
+    "slug": "সাতকানিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "হাতিয়া",
+    "externalId": "334",
+    "parentExternalId": "266",
+    "slug": "হাতিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চকরিয়া",
+    "externalId": "458",
+    "parentExternalId": "264",
+    "slug": "চকরিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ঈদগাঁও",
+    "externalId": "84230",
+    "parentExternalId": "264",
+    "slug": "ঈদগাঁও",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গোয়ালন্দ",
+    "externalId": "367",
+    "parentExternalId": "368",
+    "slug": "গোয়ালন্দ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "মানিকছড়ি",
+    "externalId": "817",
+    "parentExternalId": "337",
+    "slug": "মানিকছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "তাড়াইল",
+    "externalId": "249",
+    "parentExternalId": "250",
+    "slug": "তাড়াইল",
+    "lastUpdate": ""
+  },
+  {
+    "name": "অভয়নগর",
+    "externalId": "270",
+    "parentExternalId": "241",
+    "slug": "অভয়নগর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "চুয়াডাঙ্গা সদর",
+    "externalId": "1474",
+    "parentExternalId": "364",
+    "slug": "চুয়াডাঙ্গা-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নড়াইল সদর",
+    "externalId": "1424",
+    "parentExternalId": "248",
+    "slug": "নড়াইল-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রায়গঞ্জ",
+    "externalId": "436",
+    "parentExternalId": "281",
+    "slug": "রায়গঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "সৈয়দপুর",
+    "externalId": "444",
+    "parentExternalId": "283",
+    "slug": "সৈয়দপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রায়পুরা",
+    "externalId": "1158",
+    "parentExternalId": "386",
+    "slug": "রায়পুরা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুড়িগ্রাম সদর",
+    "externalId": "1256",
+    "parentExternalId": "301",
+    "slug": "কুড়িগ্রাম-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বড়লেখা",
+    "externalId": "1316",
+    "parentExternalId": "244",
+    "slug": "বড়লেখা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শরীয়তপুর সদর",
+    "externalId": "1582",
+    "parentExternalId": "410",
+    "slug": "শরীয়তপুর-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পাকুন্দিয়া",
+    "externalId": "1646",
+    "parentExternalId": "250",
+    "slug": "পাকুন্দিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পুঠিয়া",
+    "externalId": "1678",
+    "parentExternalId": "50",
+    "slug": "পুঠিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "টুঙ্গিপাড়া",
+    "externalId": "1568",
+    "parentExternalId": "314",
+    "slug": "টুঙ্গিপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বোয়ালখালী",
+    "externalId": "1702",
+    "parentExternalId": "55",
+    "slug": "বোয়ালখালী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আটপাড়া",
+    "externalId": "1596",
+    "parentExternalId": "253",
+    "slug": "আটপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "খালিয়াজুড়ি",
+    "externalId": "1604",
+    "parentExternalId": "253",
+    "slug": "খালিয়াজুড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কুলিয়ারচর",
+    "externalId": "1644",
+    "parentExternalId": "250",
+    "slug": "কুলিয়ারচর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দেওয়ানগঞ্জ",
+    "externalId": "1576",
+    "parentExternalId": "530",
+    "slug": "দেওয়ানগঞ্জ",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কোটালীপাড়া",
+    "externalId": "1566",
+    "parentExternalId": "314",
+    "slug": "কোটালীপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কলারোয়া",
+    "externalId": "1416",
+    "parentExternalId": "274",
+    "slug": "কলারোয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাঁঠালিয়া",
+    "externalId": "1372",
+    "parentExternalId": "339",
+    "slug": "কাঁঠালিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "দেলদুয়ার",
+    "externalId": "1236",
+    "parentExternalId": "329",
+    "slug": "দেলদুয়ার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধনবাড়ী",
+    "externalId": "1238",
+    "parentExternalId": "329",
+    "slug": "ধনবাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পলাশবাড়ী",
+    "externalId": "1264",
+    "parentExternalId": "322",
+    "slug": "পলাশবাড়ী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আখাউড়া",
+    "externalId": "556",
+    "parentExternalId": "328",
+    "slug": "আখাউড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কলাপাড়া",
+    "externalId": "579",
+    "parentExternalId": "355",
+    "slug": "কলাপাড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কটিয়াদী",
+    "externalId": "652",
+    "parentExternalId": "250",
+    "slug": "কটিয়াদী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাপাসিয়া",
+    "externalId": "795",
+    "parentExternalId": "245",
+    "slug": "কাপাসিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ফুলছড়ি",
+    "externalId": "1266",
+    "parentExternalId": "322",
+    "slug": "ফুলছড়ি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাউনিয়া",
+    "externalId": "1288",
+    "parentExternalId": "47",
+    "slug": "কাউনিয়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নারায়ণগঞ্জ সিটি",
+    "externalId": "1098",
+    "parentExternalId": "247",
+    "slug": "নারায়ণগঞ্জ-সিটি",
+    "lastUpdate": ""
+  },
+  {
+    "name": "পটুয়াখালী সদর",
+    "externalId": "1366",
+    "parentExternalId": "355",
+    "slug": "পটুয়াখালী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "শিবালয়",
+    "externalId": "1218",
+    "parentExternalId": "374",
+    "slug": "শিবালয়",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ভেড়ামারা",
+    "externalId": "742",
+    "parentExternalId": "272",
+    "slug": "ভেড়ামারা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বিয়ানীবাজার",
+    "externalId": "766",
+    "parentExternalId": "88",
+    "slug": "বিয়ানীবাজার",
+    "lastUpdate": ""
+  },
+  {
+    "name": "গঙ্গাছড়া",
+    "externalId": "1290",
+    "parentExternalId": "47",
+    "slug": "গঙ্গাছড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বানিয়াচং",
+    "externalId": "1326",
+    "parentExternalId": "260",
+    "slug": "বানিয়াচং",
+    "lastUpdate": ""
+  },
+  {
+    "name": "নিয়ামতপুর",
+    "externalId": "539",
+    "parentExternalId": "280",
+    "slug": "নিয়ামতপুর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বগুড়া সদর",
+    "externalId": "1540",
+    "parentExternalId": "277",
+    "slug": "বগুড়া-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "ধোবাউড়া",
+    "externalId": "1534",
+    "parentExternalId": "256",
+    "slug": "ধোবাউড়া",
+    "lastUpdate": ""
+  },
+  {
+    "name": "রাজবাড়ী সদর",
+    "externalId": "1538",
+    "parentExternalId": "368",
+    "slug": "রাজবাড়ী-সদর",
+    "lastUpdate": ""
+  },
+  {
+    "name": "কাশিয়ানী",
+    "externalId": "1564",
+    "parentExternalId": "314",
+    "slug": "কাশিয়ানী",
+    "lastUpdate": ""
+  },
+  {
+    "name": "আনোয়ারা",
+    "externalId": "799",
+    "parentExternalId": "55",
+    "slug": "আনোয়ারা",
+    "lastUpdate": ""
+  },
+  {
+    "name": "বেড়া",
+    "externalId": "689",
+    "parentExternalId": "320",
+    "slug": "বেড়া",
+    "lastUpdate": ""
+  }
+]
