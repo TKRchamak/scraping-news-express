@@ -4,7 +4,7 @@ import { IArea } from "../Area/area.interface";
 import scrapeData from "../../utils/scrapingWithCheerio";
 import { addManyNews, deleteNewsList, readNewsList } from "./news.service";
 
-const updateNewsFUnc = async (division: string) => {
+export const updateNewsFUnc = async (division: string) => {
   try {
     const areaList = await readAreaList();
 
@@ -20,7 +20,10 @@ const updateNewsFUnc = async (division: string) => {
       (area: IArea) => area.parentExternalId === currentDivision.externalId
     );
 
-    console.log("Start collection updated for", division);
+    console.log("-------------------------------------------");
+    console.log(
+      `-------------News Collection Start for ${division} -------------`
+    );
     for (let j = 0; j < districtAreaList.length; j++) {
       const currentDistrict = districtAreaList[j];
       const upazilaAreaList = areaList.filter(
@@ -36,15 +39,15 @@ const updateNewsFUnc = async (division: string) => {
         );
 
         if (newsList.length > 0) {
-          // const finalNewsList = newsList.filter(
-          //   (news) => news.publishedAt > currentUpazila.lastUpdate
-          // );
-
-          console.log(
-            `${newsList.length} news inserted for ${currentUpazila.slug} -- ${currentDistrict.slug} -- ${currentDivision.slug}`
+          const finalNewsList = newsList.filter(
+            (news) => news.publishedAt > currentUpazila.lastUpdate
           );
 
-          await addManyNews(newsList);
+          console.log(
+            `-- ${finalNewsList.length} -- news inserted for ${currentUpazila.slug} -- ${currentDistrict.slug} -- ${currentDivision.slug}`
+          );
+
+          await addManyNews(finalNewsList);
           await updateArea({
             _id: currentUpazila._id,
             lastUpdate: new Date().getTime(),
@@ -62,7 +65,10 @@ const updateNewsFUnc = async (division: string) => {
       }
     }
 
-    console.log("News collection updated successfully for", division);
+    console.log(
+      `-------------News Collection successful for ${division} -------------`
+    );
+    console.log("--------------------------------------------------\n");
   } catch (error) {
     console.log(error);
   }

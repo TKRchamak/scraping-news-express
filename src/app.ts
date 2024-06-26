@@ -5,10 +5,8 @@ import newsRouter from "./modules/News/news.router";
 import areaRouter from "./modules/Area/area.router";
 import tagRouter from "./modules//Tag/tag.router";
 // import fs from "fs";
-// import path from "path";
-// import seedData from "./utils/seed";
-// import { findAllUniqueTags } from "./modules/News/news.service";
-// import { seedTags } from "./utils/seedTags";
+import path from "path";
+import seedData from "./utils/seed";
 
 const app: Application = express();
 
@@ -17,7 +15,6 @@ app.use(express.json({ limit: "50mb" }));
 app.use(express.urlencoded({ limit: "50mb", extended: true }));
 
 // seedData(`${path.resolve(__dirname, "location.json")}`);
-// seedTags();
 
 app.use(
   cors({
